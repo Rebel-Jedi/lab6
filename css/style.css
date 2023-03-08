@@ -24,8 +24,8 @@
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
-  color: #fff;
-  text-decoration: none;
+  color: #ff9900;
+  text-decoration:ff9900 none;
 }
 #main-navbar ul li a:hover {
   background-color: #000;
