@@ -24,11 +24,11 @@
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
-  color: #ff9900;
-  text-decoration:ff9900 none;
+  color: #fff;
+  text-decoration: none;
 }
 #main-navbar ul li a:hover {
-  background-color: #000;
+  background-color: #ff9900;
 }
 #onpage {
   text-decoration: underline overline;
